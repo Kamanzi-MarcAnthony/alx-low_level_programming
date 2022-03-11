@@ -7,6 +7,7 @@
  * followed by a new line
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
@@ -16,10 +17,10 @@ int main(void)
 	{
 		putchar(n);
 	}
-	for (ch = 'a'; ch <= 'f';ch++)
-	}
-		putchar(ch);
+	for (ch = 'a'; ch <= 'f'; ch++)
+	{
+		putchar(ch);		
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
