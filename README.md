@@ -1,1 +1,1 @@
-Getting started in C
+pointers and arrays
